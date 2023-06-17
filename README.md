@@ -18,3 +18,8 @@ https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-f
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cansufidan&" alt="cansufidan" /></p>
 
+
+![snake gif](https://github.com/cansufidan/cansufidan/blob/output/github-contribution-grid-snake.gif)
+
+
+
