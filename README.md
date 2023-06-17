@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Cansu Fidan</h1>
-<h3 align="center">A passionate Frontend-React-React Native developer - from Türkiye</h3>
+<h2 align="center">Hi 👋, I'm Cansu Fidan</h2>
+<h5 vertical-align="center"> ❔ I am a Front-end, React - React Native developer that skilled in developing interactive user interfaces.</h5>
+<h5 vetical-align="center"> ⏳ I am here to develop powerful and unique websites and mobile applications that will provide maximum benefit to users.</h5>
+<h5 vertical-align="center">⚡  I am very energetic, coding is my passion, I am curious, I research and I am a strict follower of the latest technology.</h5>
+
+
 
 - 📫 How to reach me **cansuf20@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
